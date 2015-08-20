@@ -1,4 +1,4 @@
-v0.10 change
+Change in v0.10
 Evented I/O for V8 javascript. [![Build Status](https://secure.travis-ci.org/joyent/node.png)](http://travis-ci.org/joyent/node)
 ===
 
